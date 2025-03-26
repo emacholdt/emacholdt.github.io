@@ -3,8 +3,8 @@ main:
   - title: "Projects"
     url: /software/
 
-  # - title: "Game Development"
-  #   url: /gamedev/
+  - title: "Event: Data Science Mania"
+    url: https://www.datasciencemania.de/
 
   # - title: "Maker Projects"
   #   url: /maker/
