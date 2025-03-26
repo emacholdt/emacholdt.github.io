@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Enrico Macholdt"
 title_separator          : "-"
 name                     : &name "Enrico Macholdt"
-description              : &description "Computational Genomics and Human Population Histroy | Game Dev | Maker"
+description              : &description "Human | Data Scientist & Engineer | Event Host | PhD Candidate"
 url                      : https://enricomacholdt.de # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "emacholdt.github.io"
@@ -80,18 +80,18 @@ social:
 author:
   name             : "Enrico Macholdt"
   avatar           : "profil.png"
-  bio              : "Data Scientist and PhD candidate"
-  location         : "Leipzig"
+  bio              : "Human | Data Scientist & Engineer | Event Host | PhD Candidate"
+  location         : "Leipzig, Germany"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=kHuMAawAAAAJ&hl=en"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=enrico+macholdt"
+  pubmed           : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Enrico_Macholdt"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "167165642@N02"
+  flickr           : 
   facebook         :
   foursquare       :
   github           : "emacholdt"
@@ -107,7 +107,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "emacholdt"
+  twitter          : 
   vine             :
   weibo            :
   xing             : "Enrico_Macholdt"
