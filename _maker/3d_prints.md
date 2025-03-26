@@ -2,7 +2,7 @@
 title: "3d Models and Prints"
 excerpt: "projects like cute cases for smart home sensors
 <br>
-src='https://github.com/emacholdt/teasy_bot/blob/master/img/vallhorn_print.png?raw=true' width='500px'>
+src='https://github.com/emacholdt/teasy_bot/blob/master/img/vallhorn_print.png?raw=true' width='500px'>"
 collection: maker
 ---
 
