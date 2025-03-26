@@ -33,4 +33,4 @@ I am interested in investigating the genetic history of these regions. As part o
 
 ## my other projects
 
-I am a coder, novice game dev, and maker. I create and develop these projects for fun. Go, take a look at the [Game Development](https://emacholdt.github.io/gamedev/), and [Maker Projects](https://emacholdt.github.io/maker/) pages for a small insight into my Android games, and more.
+I am a coder, novice game dev, and maker. I create and develop these projects for fun. Go, take a look at the [Projects](https://emacholdt.github.io/software/),  page for a small insight into my Android games, 3D prints and more.
