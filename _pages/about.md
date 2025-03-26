@@ -20,6 +20,9 @@ My current focus areas are data pipelines and data management in the cloud and o
 
 Want to connect? Let's discuss the gap between data's rockstar potential and the gritty reality of agile teams and processes.
 
+__Check out [Data Science Mania](https://www.datasciencemania.de/)__
+
+
 ## my scientific projects
 
 As a Ph.D. student at the Max-Planck Institute for Evolutionary Anthropology in Leipzig, I investigated the genetic history and profile of human populations in Vietnam.
